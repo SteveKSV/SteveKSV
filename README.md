@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uncle Hachik</h1>
 <h3 align="center">A passionate full stack developer</h3>
-<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img  align="right" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steveksv&label=Profile%20views&color=0e75b6&style=flat" alt="steveksv" /> </p>
 
 - 🔭 I’m currently working on microservices project **WhatToRead**
