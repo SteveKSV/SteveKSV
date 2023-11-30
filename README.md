@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uncle Hachik</h1>
 <h3 align="center">A passionate full stack developer</h3>
-
+<img align="right" src="https://d2te1y9qx21itc.cloudfront.net/images/jobs/20160506/marketing-intern.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steveksv&label=Profile%20views&color=0e75b6&style=flat" alt="steveksv" /> </p>
 
 - 🔭 I’m currently working on microservices project **WhatToRead**
