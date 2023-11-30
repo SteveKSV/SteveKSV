@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uncle Hachik</h1>
 <h3 align="center">A passionate full stack developer</h3>
-
+<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steveksv&label=Profile%20views&color=0e75b6&style=flat" alt="steveksv" /> </p>
 
 - 🔭 I’m currently working on microservices project **WhatToRead**
@@ -10,7 +10,7 @@
 - 📫 How to reach me **amigo.kl08@gmail.com**
 
 # <h3 align="left">Education:</h3>
-<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 Bachelor of Science in Computer Science (Oct 2021 - Present) <br/><br/>
 Yuriy Fedkovych Chernivtsi National University<br/><br/>
 
@@ -25,6 +25,7 @@ Yuriy Fedkovych Chernivtsi National University<br/><br/>
 # <h3 align="left">Core Skills:</h3>
 
 <div>
+  
   <ul>
     <li>Web Development (Skillful)</li>
     <li>Computer Networks (Beginner)</li>
